@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Pierwsza linia.
 Druga linia.
 
+=======
+Another important file in this project.
+>>>>>>> master
