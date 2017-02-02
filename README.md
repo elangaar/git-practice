@@ -27,7 +27,7 @@ $ source bin/activate
 $ cd django-weather-forecast
 $ pip install -r Requirements.txt
 ```
-Collect the static files into settings.STATIC_ROOT
+Collect the static files into STATIC_ROOT
 ```
 $ python manage.py collectstatic
 ```
